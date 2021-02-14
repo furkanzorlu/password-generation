@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\bin\Debug\şifre üretme.exe.config
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\bin\Debug\şifre üretme.exe
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\bin\Debug\şifre üretme.pdb
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre üretme.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre_üretme.Form1.resources
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre_üretme.Properties.Resources.resources
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre üretme.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre üretme.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre üretme.exe
+C:\Users\HP\source\repos\şifre üretme\şifre üretme\obj\Debug\şifre üretme.pdb
